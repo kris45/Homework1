@@ -1,0 +1,36 @@
+
+body{
+	background-color: #f2f2f2;
+	font-family: arial;
+	padding: 25px 400px;
+	height: 1000px
+}
+
+h1{
+	text-align: center;
+	text-transform: uppercase;
+}
+
+img{
+	width: 200px;
+	height: 200px;
+	border: 1px solid #595959;
+	text-align: center;
+}
+
+p, ul, li{
+	font-family: calibri;
+}
+
+.study{
+	color: #595959;
+	font-size: 15px;
+}
+
+.imgAlign{
+	text-align: center;
+}
+
+li.noMark{
+	list-style-type: none;
+}
