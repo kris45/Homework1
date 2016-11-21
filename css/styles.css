@@ -1,5 +1,8 @@
-
-body{
+body {
+	padding: 0;
+	margin: 0;
+}
+.content{
 	background-color: #f2f2f2;
 	font-family: arial;
 	padding: 25px 400px;
